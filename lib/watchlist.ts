@@ -1,5 +1,10 @@
 export type Provider={provider_id:number;provider_name:string;access_type:string};
-export type Title={id:string;title:string;serviceHint:string;type:string;year:string|number;status:string;notes:string;availability:string;matchStatus:string;checkedAt:string;sourceUrl:string;poster:string|null;overview:string;genres:string[];providers:Provider[];firstReleaseDate?:string;nextReleaseDate?:string;lastReleaseDate?:string};
+export type Title={id:string;title:string;serviceHint:string;type:string;year:string|number;status:string;notes:string;availability:string;matchStatus:string;checkedAt:string;sourceUrl:string;poster:string|null;overview:string;genres:string[];providers:Provider[];downloadableHint?:string;firstReleaseDate?:string;nextReleaseDate?:string;lastReleaseDate?:string};
+
+export function offlineSources(title:Title){
+ const names=title.providers.filter(p=>['flatrate','free','ads'].includes(p.access_type)).map(p=>Number(p.provider_id)===350?'Apple TV':[8,1796].includes(Number(p.provider_id))?'Netflix':'');
+ return [...new Set(names.filter(Boolean))];
+}
 
 export function localToday(){const d=new Date();return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`}
 function dayDistance(date:string,today:string){if(!/^\d{4}-\d{2}-\d{2}$/.test(date))return Infinity;return Math.round((Date.parse(date+'T12:00:00Z')-Date.parse(today+'T12:00:00Z'))/86400000)}
