@@ -18,7 +18,7 @@ export async function GET(){
  if(!await getChatGPTUser())return Response.json({error:'Please sign in to view your watchlist.'},{status:401,headers:noStore});
  const c=config();const snapshot=(catalog as Array<{id:string}>).map(dated);if(!c.SHEET_BRIDGE_URL)return Response.json({titles:snapshot,connected:false,snapshot:true},{headers:noStore});
  try{const j=await bridge({action:'read'});const av=j.availability||[];
- const titles=(j.rows||[]).slice(1).filter(r=>r[0]).map(r=>({id:r[12],title:r[0],serviceHint:r[1]||'',type:r[2]||'',year:r[3]||'',status:r[7]||'Want to Watch',notes:r[9]||'',availability:r[16]||'needs_review',matchStatus:r[17]||'needs_review',checkedAt:r[20]||'',sourceUrl:r[19]||'',downloadableHint:r[26]||'',...((artwork as Record<string,unknown>)[String(r[12])]||{poster:null,overview:'',genres:[]}),firstReleaseDate:r[22]||dates[String(r[12])]?.firstReleaseDate||'',nextReleaseDate:r[23]||dates[String(r[12])]?.nextReleaseDate||'',lastReleaseDate:r[24]||dates[String(r[12])]?.lastReleaseDate||'',providers:av.slice(1).filter(p=>p[0]===r[12]&&p[3]==='US'&&['flatrate','free','ads'].includes(String(p[6]))).map(p=>({provider_id:p[4],provider_name:p[5],access_type:p[6]}))}));
+ const titles=(j.rows||[]).slice(1).filter(r=>r[0]).map(r=>({id:r[12],title:r[0],serviceHint:r[1]||'',type:r[2]||'',year:r[3]||'',status:r[7]||'Want to Watch',notes:r[9]||'',review:r[27]||'',rating:r[28]||'',watchedOn:r[29]||'',availability:r[16]||'needs_review',matchStatus:r[17]||'needs_review',checkedAt:r[20]||'',sourceUrl:r[19]||'',downloadableHint:r[26]||'',...((artwork as Record<string,unknown>)[String(r[12])]||{poster:null,overview:'',genres:[]}),firstReleaseDate:r[22]||dates[String(r[12])]?.firstReleaseDate||'',nextReleaseDate:r[23]||dates[String(r[12])]?.nextReleaseDate||'',lastReleaseDate:r[24]||dates[String(r[12])]?.lastReleaseDate||'',providers:av.slice(1).filter(p=>p[0]===r[12]&&p[3]==='US'&&['flatrate','free','ads'].includes(String(p[6]))).map(p=>({provider_id:p[4],provider_name:p[5],access_type:p[6]}))}));
  return Response.json({titles,connected:true,snapshot:false},{headers:noStore});
  }catch{return Response.json({error:'Could not reach Google Sheets. Your saved list is unchanged. Try again.',titles:snapshot,connected:false,snapshot:true},{status:502,headers:noStore})}
 }
@@ -33,6 +33,14 @@ export async function POST(request:Request){
  b={action:'add',id:b.id,title:b.title.trim(),serviceHint:typeof b.serviceHint==='string'?b.serviceHint.trim().slice(0,150):''};
  }else if(b.action==='status'){
  if(typeof b.id!=='string'||!statuses.includes(String(b.status)))return Response.json({error:'Choose a valid watch status.'},{status:400});b={action:'status',id:b.id,status:b.status};
+ }else if(b.action==='edit'){
+  if(typeof b.id!=='string')return Response.json({error:'Invalid title.'},{status:400});
+  const review=typeof b.review==='string'?b.review.slice(0,4000):undefined;
+  const rating=typeof b.rating==='string'?b.rating:undefined;
+  const watchedOn=typeof b.watchedOn==='string'?b.watchedOn:undefined;
+  if(rating!==undefined&&!['','1','2','3','4','5'].includes(rating))return Response.json({error:'Choose a rating from 1 to 5.'},{status:400});
+  if(watchedOn!==undefined&&!/^$|^\d{4}-\d{2}-\d{2}$/.test(watchedOn))return Response.json({error:'Use a valid watched-on date.'},{status:400});
+  b={action:'edit',id:b.id,...(review!==undefined?{review}:{}),...(rating!==undefined?{rating}:{}),...(watchedOn!==undefined?{watchedOn}:{})};
  }else return Response.json({error:'Unknown action.'},{status:400});
  try{await bridge(b);return Response.json({ok:true},{headers:noStore})}catch{return Response.json({error:'Google Sheets did not confirm the save. Keep this entry and retry.'},{status:502,headers:noStore})}
 }

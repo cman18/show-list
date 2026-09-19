@@ -1,5 +1,5 @@
 export type Provider={provider_id:number;provider_name:string;access_type:string};
-export type Title={id:string;title:string;serviceHint:string;type:string;year:string|number;status:string;notes:string;availability:string;matchStatus:string;checkedAt:string;sourceUrl:string;poster:string|null;overview:string;genres:string[];providers:Provider[];downloadableHint?:string;firstReleaseDate?:string;nextReleaseDate?:string;lastReleaseDate?:string};
+export type Title={id:string;title:string;serviceHint:string;type:string;year:string|number;status:string;notes:string;review?:string;rating?:string;watchedOn?:string;availability:string;matchStatus:string;checkedAt:string;sourceUrl:string;poster:string|null;overview:string;genres:string[];providers:Provider[];downloadableHint?:string;firstReleaseDate?:string;nextReleaseDate?:string;lastReleaseDate?:string};
 
 export function offlineSources(title:Title){
  const names=title.providers.filter(p=>['flatrate','free','ads'].includes(p.access_type)).map(p=>Number(p.provider_id)===350?'Apple TV':[8,1796].includes(Number(p.provider_id))?'Netflix':'');
