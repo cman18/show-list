@@ -1,5 +1,5 @@
 import { readFile, writeFile } from "node:fs/promises";
-import { dirname } from "node:path";
+import { dirname, } from "node:path";
 import { mkdir } from "node:fs/promises";
 
 const API_VERSION = "2026-03-11";
@@ -87,6 +87,7 @@ function makeProviders(properties) {
 }
 
 function normalizePage(page) {
+  if (page.archived || page.in_trash) return null;
   const p = page.properties || {};
   const title = textProperty(p.Title).trim();
   if (!title) return null;
@@ -113,8 +114,6 @@ function normalizePage(page) {
     firstReleaseDate: dateProperty(p.first_release_date),
     nextReleaseDate: dateProperty(p.next_episode_date),
     lastReleaseDate: dateProperty(p.last_episode_date),
-    whereToWatch: textProperty(p["Where to Watch (verified)"]),
-    access: textProperty(p["Access (verified)"]),
     position: typeof position === "number" ? position : null,
     createdAt: page.created_time || "",
   };
@@ -142,13 +141,23 @@ function publicTitle(entry) {
 }
 
 const pages = await queryAllPages();
-const unique = new Map();
+const ids = new Set();
+const identities = new Set();
+const entries = [];
+
 for (const page of pages) {
   const entry = normalizePage(page);
-  if (entry && !unique.has(entry.id)) unique.set(entry.id, entry);
+  if (!entry) continue;
+  const identity = [entry.title, entry.type, entry.year]
+    .map((value) => String(value || "").trim().toLowerCase())
+    .join("|");
+  if (ids.has(entry.id) || identities.has(identity)) continue;
+  ids.add(entry.id);
+  identities.add(identity);
+  entries.push(entry);
 }
 
-const titles = sortEntries([...unique.values()]).map(publicTitle);
+const titles = sortEntries(entries).map(publicTitle);
 if (titles.length === 0) {
   throw new Error("Notion returned no titles; refusing to replace the website snapshot with an empty list.");
 }
