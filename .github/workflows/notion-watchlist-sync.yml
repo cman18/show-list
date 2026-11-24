@@ -1,3 +1,4 @@
+# Keep the public feed current without rebuilding the website.
 name: Sync Notion Show List
 
 on:
