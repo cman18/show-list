@@ -1,6 +1,12 @@
 name: Sync Notion Show List
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/notion-watchlist-sync.yml"
+      - "scripts/sync-notion-watchlist.mjs"
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
