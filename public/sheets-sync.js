@@ -183,7 +183,7 @@
 
     const results = document.querySelector(".results-line");
     const oldIndicator = results && results.querySelector(".refresh-list");
-    if (!results || !oldIndicator) return;
+    if (!results || !oldIndicator || oldIndicator.classList.contains("sheet-sync-controls")) return;
 
     const controls = document.createElement("span");
     controls.className = "refresh-list sheet-sync-controls";
