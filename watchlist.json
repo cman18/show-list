@@ -3,7 +3,7 @@
   "syncedAt": "2026-11-24T04:05:02.480Z",
   "titles": [
     {
-      "id": "e2dcbf45-4109-48d7-a023-d274c4df5c46",
+      "id": "notion:e2dcbf45-4109-48d7-a023-d274c4df5c46",
       "title": "Tuner",
       "type": "Movie",
       "year": 2026,
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "id": "131679f1-331a-4937-a85f-d1cf65ff63e9",
+      "id": "notion:131679f1-331a-4937-a85f-d1cf65ff63e9",
       "title": "Hustle & Flow",
       "type": "Movie",
       "year": 2005,
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "id": "0e1db9f3-f2f9-42bc-b0be-93d6ab62782f",
+      "id": "notion:0e1db9f3-f2f9-42bc-b0be-93d6ab62782f",
       "title": "The Legend of Billie Jean",
       "type": "Movie",
       "year": 1985,
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "id": "9c935eaf-a291-49b4-963c-90798c2e14d3",
+      "id": "notion:9c935eaf-a291-49b4-963c-90798c2e14d3",
       "title": "Legends",
       "type": "",
       "year": "",
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "id": "3451611e-a37c-4db8-b8ea-08cce4ca2dc1",
+      "id": "notion:3451611e-a37c-4db8-b8ea-08cce4ca2dc1",
       "title": "Auxin's",
       "type": "",
       "year": "",
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "id": "da59a34b-bc50-4b72-807b-0bd67ed9e402",
+      "id": "notion:da59a34b-bc50-4b72-807b-0bd67ed9e402",
       "title": "The Creator",
       "type": "Movie",
       "year": 2023,
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "id": "0f376b53-5b19-40f5-8fa4-bf4e9def78c2",
+      "id": "notion:0f376b53-5b19-40f5-8fa4-bf4e9def78c2",
       "title": "The 5th Wave",
       "type": "Movie",
       "year": 2016,
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "id": "cd8419d2-c60f-492a-a7cc-fb47e89764d6",
+      "id": "notion:cd8419d2-c60f-492a-a7cc-fb47e89764d6",
       "title": "A Perfect Getaway (2009)",
       "type": "Movie",
       "year": 2009,
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "id": "abd41021-8330-4344-aeab-5a725d0de3a4",
+      "id": "notion:abd41021-8330-4344-aeab-5a725d0de3a4",
       "title": "Lord of the Rings",
       "type": "",
       "year": "",
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "id": "0210a9ca-3ef8-495a-b004-09de6b08c48e",
+      "id": "notion:0210a9ca-3ef8-495a-b004-09de6b08c48e",
       "title": "Reacher",
       "type": "Series",
       "year": 2022,
@@ -308,7 +308,7 @@
       ]
     },
     {
-      "id": "8395f434-e0bd-426b-b1fa-74b1fd920a4f",
+      "id": "notion:8395f434-e0bd-426b-b1fa-74b1fd920a4f",
       "title": "Coming Home in the Dark",
       "type": "Movie",
       "year": 2021,
@@ -406,7 +406,7 @@
       ]
     },
     {
-      "id": "e621c82f-345b-4c10-bde8-aba50c6f8990",
+      "id": "notion:e621c82f-345b-4c10-bde8-aba50c6f8990",
       "title": "Tribes of Europa",
       "type": "Series",
       "year": 2021,
@@ -434,7 +434,7 @@
       ]
     },
     {
-      "id": "9785b65f-8d47-46b7-9bb2-1bfcb0305ee7",
+      "id": "notion:9785b65f-8d47-46b7-9bb2-1bfcb0305ee7",
       "title": "The Gifted (tv Series)",
       "type": "Series",
       "year": 2017,
@@ -457,7 +457,7 @@
       ]
     },
     {
-      "id": "58f10067-f725-421e-9e05-78e909f02990",
+      "id": "notion:58f10067-f725-421e-9e05-78e909f02990",
       "title": "The Leftovers",
       "type": "Series",
       "year": 2014,
@@ -485,7 +485,7 @@
       ]
     },
     {
-      "id": "4b1f9ec4-0dac-4e6f-9a71-cb7548b0f74a",
+      "id": "notion:4b1f9ec4-0dac-4e6f-9a71-cb7548b0f74a",
       "title": "The Seduction",
       "type": "Series",
       "year": 2025,
@@ -513,7 +513,7 @@
       ]
     },
     {
-      "id": "b93a2a5c-07c5-49f0-939c-b07cf9671be9",
+      "id": "notion:b93a2a5c-07c5-49f0-939c-b07cf9671be9",
       "title": "Red Lights",
       "type": "Movie",
       "year": 2012,
@@ -601,7 +601,7 @@
       ]
     },
     {
-      "id": "e7963f52-e8e7-496b-a296-0f5417c8332a",
+      "id": "notion:e7963f52-e8e7-496b-a296-0f5417c8332a",
       "title": "Task",
       "type": "Series",
       "year": 2025,
@@ -634,7 +634,7 @@
       ]
     },
     {
-      "id": "b0814cfc-5ba2-480a-9410-bc7f7af5fba8",
+      "id": "notion:b0814cfc-5ba2-480a-9410-bc7f7af5fba8",
       "title": "Peacemaker",
       "type": "Series",
       "year": 2022,
@@ -662,7 +662,7 @@
       ]
     },
     {
-      "id": "229ac00e-a85d-43dd-a8ec-06d1c3f01134",
+      "id": "notion:229ac00e-a85d-43dd-a8ec-06d1c3f01134",
       "title": "We Own This City",
       "type": "Series",
       "year": 2022,
@@ -690,7 +690,7 @@
       ]
     },
     {
-      "id": "12d73a0b-5ae5-4f38-9031-aa40edb43188",
+      "id": "notion:12d73a0b-5ae5-4f38-9031-aa40edb43188",
       "title": "Jonah Hex",
       "type": "Movie",
       "year": 2010,
@@ -713,7 +713,7 @@
       ]
     },
     {
-      "id": "24732414-1399-4ffb-a634-3cfaf4f5313b",
+      "id": "notion:24732414-1399-4ffb-a634-3cfaf4f5313b",
       "title": "Warfare",
       "type": "Movie",
       "year": 2025,
@@ -741,7 +741,7 @@
       ]
     },
     {
-      "id": "1ebee481-859a-40bf-8979-c81b129f4b49",
+      "id": "notion:1ebee481-859a-40bf-8979-c81b129f4b49",
       "title": "Sinners",
       "type": "Movie",
       "year": 2025,
@@ -774,7 +774,7 @@
       ]
     },
     {
-      "id": "293c382a-1991-41d3-9ea9-25b7c077d32a",
+      "id": "notion:293c382a-1991-41d3-9ea9-25b7c077d32a",
       "title": "Sovereign (2025)",
       "type": "Movie",
       "year": 2025,
@@ -797,7 +797,7 @@
       ]
     },
     {
-      "id": "5bc37122-ce01-425d-92e6-42cb9f1773a5",
+      "id": "notion:5bc37122-ce01-425d-92e6-42cb9f1773a5",
       "title": "Star Trek",
       "type": "",
       "year": "",
@@ -820,7 +820,7 @@
       ]
     },
     {
-      "id": "e2b46203-c364-4367-a7c9-b76b670644de",
+      "id": "notion:e2b46203-c364-4367-a7c9-b76b670644de",
       "title": "Dirty Dancing",
       "type": "Movie",
       "year": 1987,
@@ -848,7 +848,7 @@
       ]
     },
     {
-      "id": "e68572a7-3c07-4ffe-96a2-c5c293a1786e",
+      "id": "notion:e68572a7-3c07-4ffe-96a2-c5c293a1786e",
       "title": "Band of Brothers",
       "type": "Series",
       "year": 2001,
@@ -876,7 +876,7 @@
       ]
     },
     {
-      "id": "cf9d4718-b01e-4085-9306-5e8449e8af34",
+      "id": "notion:cf9d4718-b01e-4085-9306-5e8449e8af34",
       "title": "Operation Mincemeat",
       "type": "Movie",
       "year": 2022,
@@ -904,7 +904,7 @@
       ]
     },
     {
-      "id": "2561e9ef-79e4-49c7-b1f1-d87c21c41e6c",
+      "id": "notion:2561e9ef-79e4-49c7-b1f1-d87c21c41e6c",
       "title": "The Survivalist",
       "type": "",
       "year": "",
@@ -927,7 +927,7 @@
       ]
     },
     {
-      "id": "17811aae-4ce2-46f2-89e3-64e888188786",
+      "id": "notion:17811aae-4ce2-46f2-89e3-64e888188786",
       "title": "Contagion",
       "type": "Movie",
       "year": 2011,
@@ -965,7 +965,7 @@
       ]
     },
     {
-      "id": "8132657a-a3a9-4e50-8fc3-0af5283c0db8",
+      "id": "notion:8132657a-a3a9-4e50-8fc3-0af5283c0db8",
       "title": "The Untouchables",
       "type": "",
       "year": "",
@@ -981,7 +981,7 @@
       "lastReleaseDate": ""
     },
     {
-      "id": "86bf04d1-accb-4116-95fc-e40d30c44c27",
+      "id": "notion:86bf04d1-accb-4116-95fc-e40d30c44c27",
       "title": "Public Enemy",
       "type": "",
       "year": "",
@@ -997,7 +997,7 @@
       "lastReleaseDate": ""
     },
     {
-      "id": "4b328a17-a2d6-4f54-bd83-3ebcdaa70cd1",
+      "id": "notion:4b328a17-a2d6-4f54-bd83-3ebcdaa70cd1",
       "title": "Timecrimes",
       "type": "Movie",
       "year": 2007,
@@ -1065,7 +1065,7 @@
       ]
     },
     {
-      "id": "aa36068c-7e4e-4413-841f-bef071de66c0",
+      "id": "notion:aa36068c-7e4e-4413-841f-bef071de66c0",
       "title": "Safety Not Guaranteed",
       "type": "Movie",
       "year": 2012,
@@ -1088,7 +1088,7 @@
       ]
     },
     {
-      "id": "9882e03d-e5e7-4076-92bb-d9ffeefb21c3",
+      "id": "notion:9882e03d-e5e7-4076-92bb-d9ffeefb21c3",
       "title": "Sharper",
       "type": "Movie",
       "year": 2023,
@@ -1116,7 +1116,7 @@
       ]
     },
     {
-      "id": "cedb064b-3411-4ef6-885d-6e90f20e7705",
+      "id": "notion:cedb064b-3411-4ef6-885d-6e90f20e7705",
       "title": "Black Mirror",
       "type": "Series",
       "year": 2011,
@@ -1144,7 +1144,7 @@
       ]
     },
     {
-      "id": "881b4c80-6cac-4477-8500-02f3c0bf1dab",
+      "id": "notion:881b4c80-6cac-4477-8500-02f3c0bf1dab",
       "title": "The Lincoln Lawyer",
       "type": "Series",
       "year": 2022,
@@ -1177,7 +1177,7 @@
       ]
     },
     {
-      "id": "46ebd1c2-c333-4228-9243-c8a704a930f4",
+      "id": "notion:46ebd1c2-c333-4228-9243-c8a704a930f4",
       "title": "Gangs of London",
       "type": "Series",
       "year": 2020,
@@ -1230,7 +1230,7 @@
       ]
     },
     {
-      "id": "adb4c9ca-67c7-4968-9f12-e86eec1dbc57",
+      "id": "notion:adb4c9ca-67c7-4968-9f12-e86eec1dbc57",
       "title": "The Continental (John Wick)",
       "type": "Series",
       "year": 2023,
@@ -1258,7 +1258,7 @@
       ]
     },
     {
-      "id": "0b043889-b921-4389-9758-b1196742d588",
+      "id": "notion:0b043889-b921-4389-9758-b1196742d588",
       "title": "The Americas",
       "type": "Series",
       "year": 2025,
@@ -1301,7 +1301,7 @@
       ]
     },
     {
-      "id": "4ea6ba44-d92a-4453-8673-f0e0ef25367a",
+      "id": "notion:4ea6ba44-d92a-4453-8673-f0e0ef25367a",
       "title": "Black Summer",
       "type": "Series",
       "year": 2019,
@@ -1329,7 +1329,7 @@
       ]
     },
     {
-      "id": "56226ed3-fcda-4b52-aba5-f0ccc9f991bd",
+      "id": "notion:56226ed3-fcda-4b52-aba5-f0ccc9f991bd",
       "title": "Vikings",
       "type": "Series",
       "year": 2013,
@@ -1352,7 +1352,7 @@
       ]
     },
     {
-      "id": "b1994e92-ac48-4ad5-9aea-8f5dbb8cbd7a",
+      "id": "notion:b1994e92-ac48-4ad5-9aea-8f5dbb8cbd7a",
       "title": "Alien: Romulus",
       "type": "Movie",
       "year": 2024,
@@ -1375,7 +1375,7 @@
       ]
     },
     {
-      "id": "1bea344b-0fd9-41a0-8a15-d30ffe719c77",
+      "id": "notion:1bea344b-0fd9-41a0-8a15-d30ffe719c77",
       "title": "Paris Has Fallen",
       "type": "Series",
       "year": 2024,
@@ -1398,7 +1398,7 @@
       ]
     },
     {
-      "id": "93497357-517f-45be-a5c0-bb83862e566c",
+      "id": "notion:93497357-517f-45be-a5c0-bb83862e566c",
       "title": "Conclave",
       "type": "Movie",
       "year": 2024,
@@ -1426,7 +1426,7 @@
       ]
     },
     {
-      "id": "c859eb32-6031-4ef0-9380-3742e1deab88",
+      "id": "notion:c859eb32-6031-4ef0-9380-3742e1deab88",
       "title": "The Companion",
       "type": "",
       "year": "",
@@ -1442,7 +1442,7 @@
       "lastReleaseDate": ""
     },
     {
-      "id": "490fde6f-4e0d-4cbe-b652-35db9faabdf1",
+      "id": "notion:490fde6f-4e0d-4cbe-b652-35db9faabdf1",
       "title": "The Pitt",
       "type": "Series",
       "year": 2025,
@@ -1470,7 +1470,7 @@
       ]
     },
     {
-      "id": "5d9add76-4ba2-4fbe-a57e-1aa1a369a26c",
+      "id": "notion:5d9add76-4ba2-4fbe-a57e-1aa1a369a26c",
       "title": "Infinite",
       "type": "Movie",
       "year": 2021,
@@ -1503,7 +1503,7 @@
       ]
     },
     {
-      "id": "279ab28d-4981-4979-b1cc-2dc9f6570bbd",
+      "id": "notion:279ab28d-4981-4979-b1cc-2dc9f6570bbd",
       "title": "Industry",
       "type": "Series",
       "year": 2020,
@@ -1526,7 +1526,7 @@
       ]
     },
     {
-      "id": "a3a054c1-e785-4f00-a1d8-5fdf34227e24",
+      "id": "notion:a3a054c1-e785-4f00-a1d8-5fdf34227e24",
       "title": "No One Will Save You",
       "type": "Movie",
       "year": 2023,
@@ -1554,7 +1554,7 @@
       ]
     },
     {
-      "id": "4a939d31-2208-474a-bf7e-af7500fed3ba",
+      "id": "notion:4a939d31-2208-474a-bf7e-af7500fed3ba",
       "title": "Behind Her Eyes",
       "type": "Series",
       "year": 2021,
@@ -1582,7 +1582,7 @@
       ]
     },
     {
-      "id": "9961693e-70be-48a1-ad93-ea3c88359d21",
+      "id": "notion:9961693e-70be-48a1-ad93-ea3c88359d21",
       "title": "Under the Bridge",
       "type": "Series",
       "year": 2024,
@@ -1605,7 +1605,7 @@
       ]
     },
     {
-      "id": "7c8bfd24-a410-4fd3-860e-bacbf1194d7e",
+      "id": "notion:7c8bfd24-a410-4fd3-860e-bacbf1194d7e",
       "title": "Outer Range (season 2)",
       "type": "Series",
       "year": 2022,
@@ -1638,7 +1638,7 @@
       ]
     },
     {
-      "id": "aac50ab9-5350-4775-9362-3864d582b96b",
+      "id": "notion:aac50ab9-5350-4775-9362-3864d582b96b",
       "title": "We Were the Lucky Ones",
       "type": "Series",
       "year": 2024,
@@ -1661,7 +1661,7 @@
       ]
     },
     {
-      "id": "cc5d5054-2bb7-4ab6-8ce1-2a00738f168a",
+      "id": "notion:cc5d5054-2bb7-4ab6-8ce1-2a00738f168a",
       "title": "Stranger Things",
       "type": "Series",
       "year": 2016,
@@ -1689,7 +1689,7 @@
       ]
     },
     {
-      "id": "17671b8d-2f10-4673-b993-5208fb64933f",
+      "id": "notion:17671b8d-2f10-4673-b993-5208fb64933f",
       "title": "A Million Miles Away",
       "type": "Movie",
       "year": 2023,
@@ -1722,7 +1722,7 @@
       ]
     },
     {
-      "id": "3d1cf5cd-f687-4c09-b0bc-6e18e758cd9e",
+      "id": "notion:3d1cf5cd-f687-4c09-b0bc-6e18e758cd9e",
       "title": "Reptile",
       "type": "Movie",
       "year": 2023,
@@ -1750,7 +1750,7 @@
       ]
     },
     {
-      "id": "65ab7200-a7e3-48ce-b9c0-5fce93df6076",
+      "id": "notion:65ab7200-a7e3-48ce-b9c0-5fce93df6076",
       "title": "Resident Evil",
       "type": "",
       "year": "",
@@ -1773,7 +1773,7 @@
       ]
     },
     {
-      "id": "84ad8be2-f4ac-4665-aefb-bb3ac9e83256",
+      "id": "notion:84ad8be2-f4ac-4665-aefb-bb3ac9e83256",
       "title": "Under the Banner of Heaven",
       "type": "Series",
       "year": 2022,
@@ -1796,7 +1796,7 @@
       ]
     },
     {
-      "id": "e5fc4edc-19d8-48c4-97d7-3310e9652da3",
+      "id": "notion:e5fc4edc-19d8-48c4-97d7-3310e9652da3",
       "title": "The Bear",
       "type": "Series",
       "year": 2022,
@@ -1829,7 +1829,7 @@
       ]
     },
     {
-      "id": "1dd8c0fd-714e-4c40-8495-c1a9884b5656",
+      "id": "notion:1dd8c0fd-714e-4c40-8495-c1a9884b5656",
       "title": "Columbus",
       "type": "Movie",
       "year": 2017,
@@ -1862,7 +1862,7 @@
       ]
     },
     {
-      "id": "bca8026e-c358-4832-8231-87345f157050",
+      "id": "notion:bca8026e-c358-4832-8231-87345f157050",
       "title": "Interview with the Vampire",
       "type": "Series",
       "year": 2022,
@@ -1930,7 +1930,7 @@
       ]
     },
     {
-      "id": "7a9a840e-1843-4739-899e-f3251d9a16f3",
+      "id": "notion:7a9a840e-1843-4739-899e-f3251d9a16f3",
       "title": "Jack the Giant Slayer",
       "type": "Movie",
       "year": 2013,
@@ -1953,7 +1953,7 @@
       ]
     },
     {
-      "id": "6fc6065b-0dda-4034-9c05-7cc3a3f334db",
+      "id": "notion:6fc6065b-0dda-4034-9c05-7cc3a3f334db",
       "title": "Devotion",
       "type": "Movie",
       "year": 2022,
@@ -1976,7 +1976,7 @@
       ]
     },
     {
-      "id": "a2789808-44a7-45ec-b101-3a8fc304f01f",
+      "id": "notion:a2789808-44a7-45ec-b101-3a8fc304f01f",
       "title": "Black Bird",
       "type": "Series",
       "year": 2022,
@@ -2004,7 +2004,7 @@
       ]
     },
     {
-      "id": "7642367c-0397-4f20-a40f-883521b091f3",
+      "id": "notion:7642367c-0397-4f20-a40f-883521b091f3",
       "title": "The Serpent Queen",
       "type": "Series",
       "year": 2022,
@@ -2027,7 +2027,7 @@
       ]
     },
     {
-      "id": "b6c24a0e-bb5a-41df-9f2e-9d29af6766ae",
+      "id": "notion:b6c24a0e-bb5a-41df-9f2e-9d29af6766ae",
       "title": "Bad Sisters",
       "type": "Series",
       "year": 2022,
@@ -2055,7 +2055,7 @@
       ]
     },
     {
-      "id": "e02e5b34-510f-4092-8c8c-6cf3d2c913cc",
+      "id": "notion:e02e5b34-510f-4092-8c8c-6cf3d2c913cc",
       "title": "The Last Thing He Told Me",
       "type": "Series",
       "year": 2023,
@@ -2083,7 +2083,7 @@
       ]
     },
     {
-      "id": "5d1df5f4-2e25-4324-b577-d158a46670d8",
+      "id": "notion:5d1df5f4-2e25-4324-b577-d158a46670d8",
       "title": "The Offer",
       "type": "Series",
       "year": 2022,
@@ -2126,7 +2126,7 @@
       ]
     },
     {
-      "id": "bd1f47f4-3c9d-4e30-999c-655909d4923d",
+      "id": "notion:bd1f47f4-3c9d-4e30-999c-655909d4923d",
       "title": "Servant",
       "type": "Series",
       "year": 2019,
@@ -2154,7 +2154,7 @@
       ]
     },
     {
-      "id": "27379af2-9e5b-4d86-ae7c-d264810f0e9b",
+      "id": "notion:27379af2-9e5b-4d86-ae7c-d264810f0e9b",
       "title": "The Expanse",
       "type": "Series",
       "year": 2015,
@@ -2182,7 +2182,7 @@
       ]
     },
     {
-      "id": "99e07515-7328-4c61-abc9-bd53fe686e60",
+      "id": "notion:99e07515-7328-4c61-abc9-bd53fe686e60",
       "title": "The Boys",
       "type": "Series",
       "year": 2019,
@@ -2215,7 +2215,7 @@
       ]
     },
     {
-      "id": "579203f7-0469-4381-9b2c-11e0d339f05a",
+      "id": "notion:579203f7-0469-4381-9b2c-11e0d339f05a",
       "title": "The Night of",
       "type": "Series",
       "year": 2016,
@@ -2248,7 +2248,7 @@
       ]
     },
     {
-      "id": "08200c26-a7fa-4943-9332-c7609b3ee9a5",
+      "id": "notion:08200c26-a7fa-4943-9332-c7609b3ee9a5",
       "title": "Under the Dome",
       "type": "Series",
       "year": 2013,
@@ -2291,7 +2291,7 @@
       ]
     },
     {
-      "id": "83ee3bd4-1c1e-4c06-9152-082bd107935e",
+      "id": "notion:83ee3bd4-1c1e-4c06-9152-082bd107935e",
       "title": "The Head",
       "type": "Series",
       "year": 2020,
@@ -2319,7 +2319,7 @@
       ]
     },
     {
-      "id": "2986c38d-f1ef-42af-860e-af15fef20bd8",
+      "id": "notion:2986c38d-f1ef-42af-860e-af15fef20bd8",
       "title": "Full Circle",
       "type": "Series",
       "year": 2023,
@@ -2347,7 +2347,7 @@
       ]
     },
     {
-      "id": "a9659d94-9c85-41c2-b6aa-476d38633068",
+      "id": "notion:a9659d94-9c85-41c2-b6aa-476d38633068",
       "title": "The Outsider",
       "type": "Series",
       "year": 2020,
@@ -2375,7 +2375,7 @@
       ]
     },
     {
-      "id": "7b3d5145-bb10-4396-8678-fd99cf24bfb2",
+      "id": "notion:7b3d5145-bb10-4396-8678-fd99cf24bfb2",
       "title": "Ascension",
       "type": "Series",
       "year": 2014,
@@ -2423,7 +2423,7 @@
       ]
     },
     {
-      "id": "c16effc5-7de6-443d-8fe4-b00dcb69b140",
+      "id": "notion:c16effc5-7de6-443d-8fe4-b00dcb69b140",
       "title": "Station Eleven",
       "type": "Series",
       "year": 2021,
@@ -2451,7 +2451,7 @@
       ]
     },
     {
-      "id": "f328d1d1-249c-4638-8922-d232101de273",
+      "id": "notion:f328d1d1-249c-4638-8922-d232101de273",
       "title": "The Hummingbird Project",
       "type": "Movie",
       "year": 2019,
@@ -2484,7 +2484,7 @@
       ]
     },
     {
-      "id": "1720b320-24b1-4e3f-b6fd-2238d71ca421",
+      "id": "notion:1720b320-24b1-4e3f-b6fd-2238d71ca421",
       "title": "Daisy Jones & the Six",
       "type": "Series",
       "year": 2023,
@@ -2512,7 +2512,7 @@
       ]
     },
     {
-      "id": "d22b5782-9e2e-455f-bd0e-1f129e810793",
+      "id": "notion:d22b5782-9e2e-455f-bd0e-1f129e810793",
       "title": "Alien: Earth",
       "type": "Series",
       "year": 2025,
@@ -2540,7 +2540,7 @@
       ]
     },
     {
-      "id": "5397694e-cd97-45a8-ade5-ce8c52c85aab",
+      "id": "notion:5397694e-cd97-45a8-ade5-ce8c52c85aab",
       "title": "NCIS: Origins",
       "type": "Series",
       "year": 2024,
@@ -2598,7 +2598,7 @@
       ]
     },
     {
-      "id": "f427a6aa-8c03-444c-a3af-f98282a93e22",
+      "id": "notion:f427a6aa-8c03-444c-a3af-f98282a93e22",
       "title": "Dune: Prophecy",
       "type": "Series",
       "year": 2024,
@@ -2626,7 +2626,7 @@
       ]
     },
     {
-      "id": "02c0388a-d947-4deb-883e-6b9abad0437a",
+      "id": "notion:02c0388a-d947-4deb-883e-6b9abad0437a",
       "title": "The Order",
       "type": "Movie",
       "year": 2024,
@@ -2649,7 +2649,7 @@
       ]
     },
     {
-      "id": "314e08d9-1584-4858-9822-4ae9b6871c8f",
+      "id": "notion:314e08d9-1584-4858-9822-4ae9b6871c8f",
       "title": "Strange Darling",
       "type": "Movie",
       "year": 2024,
@@ -2697,7 +2697,7 @@
       ]
     },
     {
-      "id": "8a5676b7-8cbf-47b6-ab5d-74f59f70e03f",
+      "id": "notion:8a5676b7-8cbf-47b6-ab5d-74f59f70e03f",
       "title": "Love Lies Bleeding",
       "type": "Movie",
       "year": 2024,
@@ -2720,7 +2720,7 @@
       ]
     },
     {
-      "id": "b10e9170-3b3c-4719-b117-47d0d64b4cee",
+      "id": "notion:b10e9170-3b3c-4719-b117-47d0d64b4cee",
       "title": "Red Rooms",
       "type": "Movie",
       "year": 2023,
@@ -2788,7 +2788,7 @@
       ]
     },
     {
-      "id": "cffe21bc-113d-475f-a627-6fcdd27823de",
+      "id": "notion:cffe21bc-113d-475f-a627-6fcdd27823de",
       "title": "Joy",
       "type": "",
       "year": "",
@@ -2811,7 +2811,7 @@
       ]
     },
     {
-      "id": "36f13d7d-0f46-4eed-bfb8-900e9d44c8f8",
+      "id": "notion:36f13d7d-0f46-4eed-bfb8-900e9d44c8f8",
       "title": "Tulsa King",
       "type": "Series",
       "year": 2022,
@@ -2854,7 +2854,7 @@
       ]
     },
     {
-      "id": "b1763fd9-c04b-4d68-bd97-98bc85ffe6f8",
+      "id": "notion:b1763fd9-c04b-4d68-bd97-98bc85ffe6f8",
       "title": "Those About to Die",
       "type": "Series",
       "year": 2024,
@@ -2882,7 +2882,7 @@
       ]
     },
     {
-      "id": "9ead8b13-f0b9-4a1b-a078-6321be16c576",
+      "id": "notion:9ead8b13-f0b9-4a1b-a078-6321be16c576",
       "title": "Doctor Sleep",
       "type": "Movie",
       "year": 2019,
@@ -2925,7 +2925,7 @@
       ]
     },
     {
-      "id": "1e13797e-1c66-4e12-b19e-cfff03e13097",
+      "id": "notion:1e13797e-1c66-4e12-b19e-cfff03e13097",
       "title": "Teacup",
       "type": "Series",
       "year": 2024,
@@ -2953,7 +2953,7 @@
       ]
     },
     {
-      "id": "f023dcde-2f59-457e-a428-5048310e8ed4",
+      "id": "notion:f023dcde-2f59-457e-a428-5048310e8ed4",
       "title": "The Regime",
       "type": "Series",
       "year": 2024,
@@ -2981,7 +2981,7 @@
       ]
     },
     {
-      "id": "8c4087b5-8059-40cc-b2d6-6563c5969c16",
+      "id": "notion:8c4087b5-8059-40cc-b2d6-6563c5969c16",
       "title": "Lee",
       "type": "Movie",
       "year": 2024,
@@ -3009,7 +3009,7 @@
       ]
     },
     {
-      "id": "59de6c87-c014-4775-ab54-28240e44c5ce",
+      "id": "notion:59de6c87-c014-4775-ab54-28240e44c5ce",
       "title": "From",
       "type": "Series",
       "year": 2022,
@@ -3057,7 +3057,7 @@
       ]
     },
     {
-      "id": "c287c970-be50-488c-92df-200f74ed86a3",
+      "id": "notion:c287c970-be50-488c-92df-200f74ed86a3",
       "title": "Dark Winds",
       "type": "Series",
       "year": 2022,
@@ -3125,7 +3125,7 @@
       ]
     },
     {
-      "id": "0b846df3-deaf-44ce-80ce-baba62200bf3",
+      "id": "notion:0b846df3-deaf-44ce-80ce-baba62200bf3",
       "title": "Hotel Cocaine",
       "type": "Series",
       "year": 2024,
@@ -3173,7 +3173,7 @@
       ]
     },
     {
-      "id": "229bc9a7-9e82-43dc-beec-eb3774adedcc",
+      "id": "notion:229bc9a7-9e82-43dc-beec-eb3774adedcc",
       "title": "Normal People",
       "type": "Series",
       "year": 2020,
@@ -3196,7 +3196,7 @@
       ]
     },
     {
-      "id": "d09ae3c1-81fe-4424-8b3e-c16de5c540d7",
+      "id": "notion:d09ae3c1-81fe-4424-8b3e-c16de5c540d7",
       "title": "I See You",
       "type": "Movie",
       "year": 2019,
@@ -3219,7 +3219,7 @@
       ]
     },
     {
-      "id": "47bf3625-4663-4aa5-9d77-a3a6bc9b7b14",
+      "id": "notion:47bf3625-4663-4aa5-9d77-a3a6bc9b7b14",
       "title": "Tombstone",
       "type": "Movie",
       "year": 1993,
@@ -3252,7 +3252,7 @@
       ]
     },
     {
-      "id": "7f41627e-60cb-4fcf-8c52-004cd4ac26b5",
+      "id": "notion:7f41627e-60cb-4fcf-8c52-004cd4ac26b5",
       "title": "The Last Stop in Yuma County",
       "type": "Movie",
       "year": 2024,
@@ -3295,7 +3295,7 @@
       ]
     },
     {
-      "id": "188c436b-396b-4d12-a99b-daf6206d5af9",
+      "id": "notion:188c436b-396b-4d12-a99b-daf6206d5af9",
       "title": "The Change-Up",
       "type": "Movie",
       "year": 2011,
@@ -3323,7 +3323,7 @@
       ]
     },
     {
-      "id": "35defd09-144a-4a18-8a8f-8bd34aabce08",
+      "id": "notion:35defd09-144a-4a18-8a8f-8bd34aabce08",
       "title": "Mr. & Mrs. Smith",
       "type": "",
       "year": "",
@@ -3339,7 +3339,7 @@
       "lastReleaseDate": ""
     },
     {
-      "id": "e37fcc0d-0ccb-4bbd-9c74-4c482c7828c7",
+      "id": "notion:e37fcc0d-0ccb-4bbd-9c74-4c482c7828c7",
       "title": "The I-Land",
       "type": "Series",
       "year": 2019,
@@ -3367,7 +3367,7 @@
       ]
     },
     {
-      "id": "daef9cbb-9c55-44b5-a7f9-405dd5e545b1",
+      "id": "notion:daef9cbb-9c55-44b5-a7f9-405dd5e545b1",
       "title": "Life Itself",
       "type": "",
       "year": "",
@@ -3390,7 +3390,7 @@
       ]
     },
     {
-      "id": "680843a2-6961-4006-a66a-492830b32c99",
+      "id": "notion:680843a2-6961-4006-a66a-492830b32c99",
       "title": "Dark Matter",
       "type": "Series",
       "year": 2024,
@@ -3428,7 +3428,7 @@
       ]
     },
     {
-      "id": "348502e5-e2bf-4a45-a633-62e86cee2927",
+      "id": "notion:348502e5-e2bf-4a45-a633-62e86cee2927",
       "title": "Oceans 11 Series",
       "type": "",
       "year": "",
@@ -3444,7 +3444,7 @@
       "lastReleaseDate": ""
     },
     {
-      "id": "667ad132-b1bd-46b4-944a-3a0e31c10fd5",
+      "id": "notion:667ad132-b1bd-46b4-944a-3a0e31c10fd5",
       "title": "Snowpiercer",
       "type": "",
       "year": "",
@@ -3460,7 +3460,7 @@
       "lastReleaseDate": ""
     },
     {
-      "id": "7002efaa-419d-4f48-bcf6-ec25ab883c36",
+      "id": "notion:7002efaa-419d-4f48-bcf6-ec25ab883c36",
       "title": "Z for Zachariah",
       "type": "Movie",
       "year": 2015,
@@ -3553,7 +3553,7 @@
       ]
     },
     {
-      "id": "6a38b318-8ea3-41bc-81de-501ff221e40d",
+      "id": "notion:6a38b318-8ea3-41bc-81de-501ff221e40d",
       "title": "Fool Me Once",
       "type": "Series",
       "year": 2024,
@@ -3581,7 +3581,7 @@
       ]
     },
     {
-      "id": "c703dece-c42d-4ace-9311-829fbcab0035",
+      "id": "notion:c703dece-c42d-4ace-9311-829fbcab0035",
       "title": "Squid Game",
       "type": "Series",
       "year": 2021,
@@ -3609,7 +3609,7 @@
       ]
     },
     {
-      "id": "97e575e6-54a3-4435-bacf-6936d82fb6c1",
+      "id": "notion:97e575e6-54a3-4435-bacf-6936d82fb6c1",
       "title": "Life (movie)",
       "type": "",
       "year": "",
@@ -3625,7 +3625,7 @@
       "lastReleaseDate": ""
     },
     {
-      "id": "4db8bec8-9491-41d1-b37a-80c22512896e",
+      "id": "notion:4db8bec8-9491-41d1-b37a-80c22512896e",
       "title": "Rebel Moon (2 Part Series)",
       "type": "",
       "year": "",
@@ -3641,7 +3641,7 @@
       "lastReleaseDate": ""
     },
     {
-      "id": "54edf80c-3283-4964-a25a-943ccca82c60",
+      "id": "notion:54edf80c-3283-4964-a25a-943ccca82c60",
       "title": "Moonfall",
       "type": "Movie",
       "year": 2022,
@@ -3674,7 +3674,7 @@
       ]
     },
     {
-      "id": "a4ff00d0-4bb5-48cf-abb9-5622e4f9857c",
+      "id": "notion:a4ff00d0-4bb5-48cf-abb9-5622e4f9857c",
       "title": "What Happened to Monday",
       "type": "Movie",
       "year": 2017,
@@ -3702,7 +3702,7 @@
       ]
     },
     {
-      "id": "9eefdd3d-ed91-4c91-9a81-7fc4b6c1b831",
+      "id": "notion:9eefdd3d-ed91-4c91-9a81-7fc4b6c1b831",
       "title": "Murder on the Orient Express",
       "type": "",
       "year": "",
@@ -3718,7 +3718,7 @@
       "lastReleaseDate": ""
     },
     {
-      "id": "dd145f88-ebcf-4202-8d47-4e2a0959954b",
+      "id": "notion:dd145f88-ebcf-4202-8d47-4e2a0959954b",
       "title": "Fury",
       "type": "Movie",
       "year": 2014,
@@ -3746,7 +3746,7 @@
       ]
     },
     {
-      "id": "8d35f07b-c692-4bf0-b1d3-23e65dc9cf31",
+      "id": "notion:8d35f07b-c692-4bf0-b1d3-23e65dc9cf31",
       "title": "12 Monkeys Series",
       "type": "Series",
       "year": 2015,
@@ -3779,7 +3779,7 @@
       ]
     },
     {
-      "id": "9aefa52f-a7ee-4224-91b3-6458db9537e1",
+      "id": "notion:9aefa52f-a7ee-4224-91b3-6458db9537e1",
       "title": "Spider-man Movies",
       "type": "",
       "year": "",
@@ -3795,7 +3795,7 @@
       "lastReleaseDate": ""
     },
     {
-      "id": "04f3bcef-ba5e-4d82-a21c-b01f4f5f8da2",
+      "id": "notion:04f3bcef-ba5e-4d82-a21c-b01f4f5f8da2",
       "title": "Blood on Her Name",
       "type": "Movie",
       "year": 2020,
@@ -3843,7 +3843,7 @@
       ]
     },
     {
-      "id": "9de573f3-ca97-445f-ab2b-3127bfcf2c67",
+      "id": "notion:9de573f3-ca97-445f-ab2b-3127bfcf2c67",
       "title": "Lessons in Chemistry",
       "type": "Series",
       "year": 2023,
@@ -3871,7 +3871,7 @@
       ]
     },
     {
-      "id": "0eeba571-3fca-4d8a-9c3d-f5d619681021",
+      "id": "notion:0eeba571-3fca-4d8a-9c3d-f5d619681021",
       "title": "Sugar",
       "type": "Series",
       "year": 2024,
@@ -3899,7 +3899,7 @@
       ]
     },
     {
-      "id": "5134e503-3cce-47ba-a257-cb2559c2dcb7",
+      "id": "notion:5134e503-3cce-47ba-a257-cb2559c2dcb7",
       "title": "Constellation",
       "type": "Series",
       "year": 2024,
@@ -3927,7 +3927,7 @@
       ]
     },
     {
-      "id": "8354803e-e6af-4b6a-85fb-ef1772e84f2a",
+      "id": "notion:8354803e-e6af-4b6a-85fb-ef1772e84f2a",
       "title": "The Invisible Guest",
       "type": "Movie",
       "year": 2017,
@@ -3950,7 +3950,7 @@
       ]
     },
     {
-      "id": "de0fb8d5-090c-462d-ac5a-3f7ba4c4318f",
+      "id": "notion:de0fb8d5-090c-462d-ac5a-3f7ba4c4318f",
       "title": "Under the Silver Lake",
       "type": "Movie",
       "year": 2018,
@@ -4008,7 +4008,7 @@
       ]
     },
     {
-      "id": "d2d7649b-2e9d-4461-b54c-68522e45a735",
+      "id": "notion:d2d7649b-2e9d-4461-b54c-68522e45a735",
       "title": "Ankara",
       "type": "",
       "year": "",
@@ -4024,7 +4024,7 @@
       "lastReleaseDate": ""
     },
     {
-      "id": "608bb2cd-4702-44b6-a8b4-11ef8bed2b23",
+      "id": "notion:608bb2cd-4702-44b6-a8b4-11ef8bed2b23",
       "title": "The Five Devils",
       "type": "Movie",
       "year": 2022,
@@ -4052,7 +4052,7 @@
       ]
     },
     {
-      "id": "c2bd63cb-8d9d-4201-b368-6f6b2278f99d",
+      "id": "notion:c2bd63cb-8d9d-4201-b368-6f6b2278f99d",
       "title": "Kill List",
       "type": "Movie",
       "year": 2011,
@@ -4110,7 +4110,7 @@
       ]
     },
     {
-      "id": "3b5db666-030d-4862-bbfb-d7c24f7e5e08",
+      "id": "notion:3b5db666-030d-4862-bbfb-d7c24f7e5e08",
       "title": "Barry Sanders",
       "type": "",
       "year": "",
@@ -4133,7 +4133,7 @@
       ]
     },
     {
-      "id": "7ddb18ee-e8ba-4d45-a9a6-73289228a6f2",
+      "id": "notion:7ddb18ee-e8ba-4d45-a9a6-73289228a6f2",
       "title": "Lincoln (movie)",
       "type": "Movie",
       "year": 2012,
@@ -4156,7 +4156,7 @@
       ]
     },
     {
-      "id": "3b9f5bb0-de7c-4f9f-ae84-cef10c8e0cce",
+      "id": "notion:3b9f5bb0-de7c-4f9f-ae84-cef10c8e0cce",
       "title": "The Fall of the House of Usher",
       "type": "Series",
       "year": 2023,
@@ -4184,7 +4184,7 @@
       ]
     },
     {
-      "id": "4a958517-d84b-4721-879c-5f7e3d85903d",
+      "id": "notion:4a958517-d84b-4721-879c-5f7e3d85903d",
       "title": "Gen V",
       "type": "Series",
       "year": 2023,
@@ -4217,7 +4217,7 @@
       ]
     },
     {
-      "id": "3bccff1e-3692-415d-bf3d-a58aa7a9c769",
+      "id": "notion:3bccff1e-3692-415d-bf3d-a58aa7a9c769",
       "title": "Mayfair Witches",
       "type": "Series",
       "year": 2023,
@@ -4285,7 +4285,7 @@
       ]
     },
     {
-      "id": "c6f209d3-e67c-4d75-8444-3f7f6688ad87",
+      "id": "notion:c6f209d3-e67c-4d75-8444-3f7f6688ad87",
       "title": "Monsieur Spade",
       "type": "Series",
       "year": 2024,
@@ -4353,7 +4353,7 @@
       ]
     },
     {
-      "id": "b7caef3e-154a-40bb-b5e1-610371e679b1",
+      "id": "notion:b7caef3e-154a-40bb-b5e1-610371e679b1",
       "title": "Foundation",
       "type": "Series",
       "year": 2021,
@@ -4381,7 +4381,7 @@
       ]
     },
     {
-      "id": "f53825ba-78f2-41b1-b842-23c86a23b497",
+      "id": "notion:f53825ba-78f2-41b1-b842-23c86a23b497",
       "title": "Centennial",
       "type": "",
       "year": "",
@@ -4404,7 +4404,7 @@
       ]
     },
     {
-      "id": "65590d5f-a86d-4e20-b1b7-7bcd47efe0e0",
+      "id": "notion:65590d5f-a86d-4e20-b1b7-7bcd47efe0e0",
       "title": "Living",
       "type": "Movie",
       "year": 2022,
@@ -4432,7 +4432,7 @@
       ]
     },
     {
-      "id": "9dec22a3-4829-4ebd-8e37-786f7fccb927",
+      "id": "notion:9dec22a3-4829-4ebd-8e37-786f7fccb927",
       "title": "Golden Bachelor",
       "type": "Series",
       "year": 2023,
@@ -4455,7 +4455,7 @@
       ]
     },
     {
-      "id": "77344eb0-c082-40e7-bd2e-d50ea977cf8e",
+      "id": "notion:77344eb0-c082-40e7-bd2e-d50ea977cf8e",
       "title": "Sex Education",
       "type": "Series",
       "year": 2019,
@@ -4483,7 +4483,7 @@
       ]
     },
     {
-      "id": "255edb3e-a684-48a0-a580-d69c410df752",
+      "id": "notion:255edb3e-a684-48a0-a580-d69c410df752",
       "title": "Bullet Train",
       "type": "Movie",
       "year": 2022,
@@ -4516,7 +4516,7 @@
       ]
     },
     {
-      "id": "04691d5d-61be-4025-b82f-00a5a7565613",
+      "id": "notion:04691d5d-61be-4025-b82f-00a5a7565613",
       "title": "Glass Onion: a Knives Out Mystery",
       "type": "Movie",
       "year": 2022,
@@ -4544,7 +4544,7 @@
       ]
     },
     {
-      "id": "3ac3b068-7ce9-4d8e-82d1-c772a5ff748d",
+      "id": "notion:3ac3b068-7ce9-4d8e-82d1-c772a5ff748d",
       "title": "Mad Men",
       "type": "Series",
       "year": 2007,
@@ -4617,7 +4617,7 @@
       ]
     },
     {
-      "id": "490b53c4-dc4b-4ef2-b9c5-c7be47feba72",
+      "id": "notion:490b53c4-dc4b-4ef2-b9c5-c7be47feba72",
       "title": "The Lazarus Project",
       "type": "Series",
       "year": 2022,
@@ -4640,7 +4640,7 @@
       ]
     },
     {
-      "id": "a0e21f0e-b377-4517-93e2-77b312698f2c",
+      "id": "notion:a0e21f0e-b377-4517-93e2-77b312698f2c",
       "title": "Warrior Season 3",
       "type": "Series",
       "year": 2019,
@@ -4668,7 +4668,7 @@
       ]
     },
     {
-      "id": "174dbf7a-8455-4033-9708-07ffc5e1b4d7",
+      "id": "notion:174dbf7a-8455-4033-9708-07ffc5e1b4d7",
       "title": "Shrinking",
       "type": "Series",
       "year": 2023,
@@ -4696,7 +4696,7 @@
       ]
     },
     {
-      "id": "14b3039a-6c0d-4b28-924c-985dea3483db",
+      "id": "notion:14b3039a-6c0d-4b28-924c-985dea3483db",
       "title": "Billions Season 2",
       "type": "Series",
       "year": 2016,
@@ -4749,7 +4749,7 @@
       ]
     },
     {
-      "id": "3c7bb3a3-e12a-4d67-80e2-28ecedc5ac0f",
+      "id": "notion:3c7bb3a3-e12a-4d67-80e2-28ecedc5ac0f",
       "title": "Picard",
       "type": "Series",
       "year": 2020,
@@ -4792,7 +4792,7 @@
       ]
     },
     {
-      "id": "31efc40e-8c6b-4dea-8985-b856a9aecdb4",
+      "id": "notion:31efc40e-8c6b-4dea-8985-b856a9aecdb4",
       "title": "Quantum Leap",
       "type": "",
       "year": "",
@@ -4815,7 +4815,7 @@
       ]
     },
     {
-      "id": "3e3517fa-d1c6-42af-8a91-50a5c822561d",
+      "id": "notion:3e3517fa-d1c6-42af-8a91-50a5c822561d",
       "title": "Carnival Row",
       "type": "Series",
       "year": 2019,
@@ -4843,7 +4843,7 @@
       ]
     },
     {
-      "id": "15d03257-2000-496a-a71a-2733e8c25815",
+      "id": "notion:15d03257-2000-496a-a71a-2733e8c25815",
       "title": "American Gladiators 30 for 30",
       "type": "",
       "year": "",
@@ -4866,7 +4866,7 @@
       ]
     },
     {
-      "id": "4b361fd5-5a45-4502-9c09-bb299d4ee9fd",
+      "id": "notion:4b361fd5-5a45-4502-9c09-bb299d4ee9fd",
       "title": "Tales from the Loop",
       "type": "Series",
       "year": 2020,
@@ -4899,7 +4899,7 @@
       ]
     },
     {
-      "id": "6723aa0e-1bb0-47e1-9b3c-71ae2218b250",
+      "id": "notion:6723aa0e-1bb0-47e1-9b3c-71ae2218b250",
       "title": "Joe Pickett",
       "type": "Series",
       "year": 2021,
@@ -4942,7 +4942,7 @@
       ]
     },
     {
-      "id": "9b548183-5b57-4a54-8130-64919b07cafb",
+      "id": "notion:9b548183-5b57-4a54-8130-64919b07cafb",
       "title": "Twin Peaks",
       "type": "Series",
       "year": 1990,
@@ -4995,7 +4995,7 @@
       ]
     },
     {
-      "id": "c3db96f8-b1cb-489a-8d33-131a28b8c5b4",
+      "id": "notion:c3db96f8-b1cb-489a-8d33-131a28b8c5b4",
       "title": "Evil",
       "type": "Series",
       "year": 2019,
@@ -5038,7 +5038,7 @@
       ]
     },
     {
-      "id": "1f4cafae-958f-422e-8074-a0508cf068a3",
+      "id": "notion:1f4cafae-958f-422e-8074-a0508cf068a3",
       "title": "Bones",
       "type": "Series",
       "year": 2005,
@@ -5081,7 +5081,7 @@
       ]
     },
     {
-      "id": "df0fdef4-b173-45f1-9a46-d339478e7666",
+      "id": "notion:df0fdef4-b173-45f1-9a46-d339478e7666",
       "title": "The Finder",
       "type": "Series",
       "year": 2012,
@@ -5104,7 +5104,7 @@
       ]
     },
     {
-      "id": "94d53ebb-fd9a-4a12-ab4b-3c486452cb4b",
+      "id": "notion:94d53ebb-fd9a-4a12-ab4b-3c486452cb4b",
       "title": "Devil in Ohio",
       "type": "Series",
       "year": 2022,
@@ -5137,7 +5137,7 @@
       ]
     },
     {
-      "id": "77bf76de-6212-4027-b518-6b5e6369608e",
+      "id": "notion:77bf76de-6212-4027-b518-6b5e6369608e",
       "title": "Castle",
       "type": "Series",
       "year": 2009,
@@ -5175,7 +5175,7 @@
       ]
     },
     {
-      "id": "a4b8bd17-fc5f-451f-9329-0550020c0246",
+      "id": "notion:a4b8bd17-fc5f-451f-9329-0550020c0246",
       "title": "Letterkenny",
       "type": "Series",
       "year": 2016,
@@ -5198,7 +5198,7 @@
       ]
     },
     {
-      "id": "67d1db82-eb03-4af3-accd-b45861b21365",
+      "id": "notion:67d1db82-eb03-4af3-accd-b45861b21365",
       "title": "Night Sky",
       "type": "Series",
       "year": 2022,
@@ -5231,7 +5231,7 @@
       ]
     },
     {
-      "id": "3a262d5f-33af-4a0a-82b4-22519aff0d31",
+      "id": "notion:3a262d5f-33af-4a0a-82b4-22519aff0d31",
       "title": "Schitt's Creek",
       "type": "Series",
       "year": 2015,
@@ -5279,7 +5279,7 @@
       ]
     },
     {
-      "id": "63eab3ed-93f2-4bc7-bda0-48914a8903b9",
+      "id": "notion:63eab3ed-93f2-4bc7-bda0-48914a8903b9",
       "title": "Hello Tomorrow",
       "type": "Series",
       "year": 2023,
@@ -5307,7 +5307,7 @@
       ]
     },
     {
-      "id": "26919451-7f47-4acf-9610-c2507ed5e075",
+      "id": "notion:26919451-7f47-4acf-9610-c2507ed5e075",
       "title": "Barry",
       "type": "Series",
       "year": 2018,
@@ -5335,7 +5335,7 @@
       ]
     },
     {
-      "id": "742dfc44-fa43-4cdb-9ee8-0feefd9be0f8",
+      "id": "notion:742dfc44-fa43-4cdb-9ee8-0feefd9be0f8",
       "title": "Severance",
       "type": "Series",
       "year": 2022,
@@ -5363,7 +5363,7 @@
       ]
     },
     {
-      "id": "58cb74ec-941d-4489-a5af-ee4b9f1279fe",
+      "id": "notion:58cb74ec-941d-4489-a5af-ee4b9f1279fe",
       "title": "The Nevers",
       "type": "Series",
       "year": 2021,
@@ -5386,7 +5386,7 @@
       ]
     },
     {
-      "id": "974f88df-32a9-48e9-8f67-e60ea36576b7",
+      "id": "notion:974f88df-32a9-48e9-8f67-e60ea36576b7",
       "title": "Dog",
       "type": "Movie",
       "year": 2022,
@@ -5414,7 +5414,7 @@
       ]
     },
     {
-      "id": "3766c684-5ec9-420d-90c9-0dc9f76f6a72",
+      "id": "notion:3766c684-5ec9-420d-90c9-0dc9f76f6a72",
       "title": "City on a Hill",
       "type": "Series",
       "year": 2019,
@@ -5437,7 +5437,7 @@
       ]
     },
     {
-      "id": "8bd32c2d-b25e-4b4b-91a4-9852e3bf7689",
+      "id": "notion:8bd32c2d-b25e-4b4b-91a4-9852e3bf7689",
       "title": "For All Mankind",
       "type": "Series",
       "year": 2019,
@@ -5475,7 +5475,7 @@
       ]
     },
     {
-      "id": "d0018079-378d-47ac-a7c1-8c3c605022e2",
+      "id": "notion:d0018079-378d-47ac-a7c1-8c3c605022e2",
       "title": "Kin",
       "type": "",
       "year": "",
@@ -5498,7 +5498,7 @@
       ]
     },
     {
-      "id": "f6738443-84a2-49f4-b3d5-cb4ae191c6d8",
+      "id": "notion:f6738443-84a2-49f4-b3d5-cb4ae191c6d8",
       "title": "Suits",
       "type": "Series",
       "year": 2011,
@@ -5536,7 +5536,7 @@
       ]
     },
     {
-      "id": "ca7fb392-e70d-4c4f-97c3-c3772b555440",
+      "id": "notion:ca7fb392-e70d-4c4f-97c3-c3772b555440",
       "title": "Queen of the South",
       "type": "Series",
       "year": 2016,
@@ -5559,7 +5559,7 @@
       ]
     },
     {
-      "id": "3d32cc2e-e959-46e5-917c-decde2982aa1",
+      "id": "notion:3d32cc2e-e959-46e5-917c-decde2982aa1",
       "title": "Man from Toronto",
       "type": "Movie",
       "year": 2022,
@@ -5587,7 +5587,7 @@
       ]
     },
     {
-      "id": "f9f83165-b3d1-4abf-9045-56ae44bf2bcb",
+      "id": "notion:f9f83165-b3d1-4abf-9045-56ae44bf2bcb",
       "title": "Spiderhead",
       "type": "Movie",
       "year": 2022,
@@ -5615,7 +5615,7 @@
       ]
     },
     {
-      "id": "994afbe8-4480-42c8-a506-39e61b185f4c",
+      "id": "notion:994afbe8-4480-42c8-a506-39e61b185f4c",
       "title": "Darl",
       "type": "",
       "year": "",
@@ -5638,7 +5638,7 @@
       ]
     },
     {
-      "id": "0f4621d4-2471-4960-8c8d-5998613166e8",
+      "id": "notion:0f4621d4-2471-4960-8c8d-5998613166e8",
       "title": "Arcane",
       "type": "Series",
       "year": 2021,
@@ -5666,7 +5666,7 @@
       ]
     },
     {
-      "id": "835f7144-17ee-4a84-9e05-97aa4bf91f58",
+      "id": "notion:835f7144-17ee-4a84-9e05-97aa4bf91f58",
       "title": "Love, Death, & Robots",
       "type": "Series",
       "year": 2019,
@@ -5694,7 +5694,7 @@
       ]
     },
     {
-      "id": "e4e5eb87-f2f1-450f-9c81-058536c70067",
+      "id": "notion:e4e5eb87-f2f1-450f-9c81-058536c70067",
       "title": "Margin Call 2011",
       "type": "Movie",
       "year": 2011,
@@ -5737,7 +5737,7 @@
       ]
     },
     {
-      "id": "5c6c3a34-f808-41d9-b6a6-b5a38df67751",
+      "id": "notion:5c6c3a34-f808-41d9-b6a6-b5a38df67751",
       "title": "Case for Christ",
       "type": "",
       "year": "",
@@ -5753,7 +5753,7 @@
       "lastReleaseDate": ""
     },
     {
-      "id": "0e6bd12d-98e0-476e-a584-84bff22497c1",
+      "id": "notion:0e6bd12d-98e0-476e-a584-84bff22497c1",
       "title": "The Lost City",
       "type": "Movie",
       "year": 2022,
@@ -5801,7 +5801,7 @@
       ]
     },
     {
-      "id": "307d319c-f112-4fe1-b110-228d00939b14",
+      "id": "notion:307d319c-f112-4fe1-b110-228d00939b14",
       "title": "Lone Survivor",
       "type": "Movie",
       "year": 2013,
@@ -5824,7 +5824,7 @@
       ]
     },
     {
-      "id": "ced04867-fac9-4f38-b8d6-7f142dcce291",
+      "id": "notion:ced04867-fac9-4f38-b8d6-7f142dcce291",
       "title": "Colossal",
       "type": "Movie",
       "year": 2017,
@@ -5847,7 +5847,7 @@
       ]
     },
     {
-      "id": "395cea54-c606-4464-ae6e-f1fb5350b14e",
+      "id": "notion:395cea54-c606-4464-ae6e-f1fb5350b14e",
       "title": "Best of Me",
       "type": "Movie",
       "year": 2014,
@@ -5870,7 +5870,7 @@
       ]
     },
     {
-      "id": "03cd2433-2a99-471e-807b-34fab5253931",
+      "id": "notion:03cd2433-2a99-471e-807b-34fab5253931",
       "title": "Ted Lasso",
       "type": "Series",
       "year": 2020,
@@ -5898,7 +5898,7 @@
       ]
     },
     {
-      "id": "180947f0-2edd-48ca-a740-3b0fb52254b2",
+      "id": "notion:180947f0-2edd-48ca-a740-3b0fb52254b2",
       "title": "House of Gucci",
       "type": "Movie",
       "year": 2021,
@@ -5931,7 +5931,7 @@
       ]
     },
     {
-      "id": "e73347f4-3ec2-40c7-b111-709b62b9d6a6",
+      "id": "notion:e73347f4-3ec2-40c7-b111-709b62b9d6a6",
       "title": "The Gray Man",
       "type": "Movie",
       "year": 2022,
@@ -5959,7 +5959,7 @@
       ]
     },
     {
-      "id": "1591de9e-06dc-4fbd-b671-c8fb6d6b3bb8",
+      "id": "notion:1591de9e-06dc-4fbd-b671-c8fb6d6b3bb8",
       "title": "Yellowstone",
       "type": "Series",
       "year": 2018,
@@ -6002,7 +6002,7 @@
       ]
     },
     {
-      "id": "3e2fc6e0-2405-4fb8-928c-b649a0a20132",
+      "id": "notion:3e2fc6e0-2405-4fb8-928c-b649a0a20132",
       "title": "King Richard",
       "type": "Movie",
       "year": 2021,
@@ -6025,7 +6025,7 @@
       ]
     },
     {
-      "id": "532f0b9e-6cdd-4ad9-a4da-9cf93c3aa27a",
+      "id": "notion:532f0b9e-6cdd-4ad9-a4da-9cf93c3aa27a",
       "title": "Persuasion",
       "type": "Movie",
       "year": 2022,
@@ -6053,7 +6053,7 @@
       ]
     },
     {
-      "id": "d8114cee-5ce5-4a15-834f-ed4bf27e931c",
+      "id": "notion:d8114cee-5ce5-4a15-834f-ed4bf27e931c",
       "title": "The Terminal List",
       "type": "Series",
       "year": 2022,
@@ -6086,7 +6086,7 @@
       ]
     },
     {
-      "id": "4c265c69-15fe-4462-b38e-7529142a406a",
+      "id": "notion:4c265c69-15fe-4462-b38e-7529142a406a",
       "title": "Formula 1: Drive to Survive",
       "type": "Series",
       "year": 2019,
@@ -6124,7 +6124,7 @@
       ]
     },
     {
-      "id": "434eb9dd-0ba6-4057-aa72-bc6b3f075c6b",
+      "id": "notion:434eb9dd-0ba6-4057-aa72-bc6b3f075c6b",
       "title": "Westworld",
       "type": "Series",
       "year": 2016,
@@ -6147,7 +6147,7 @@
       ]
     },
     {
-      "id": "097ec2c4-499a-4df4-a0db-7f6aca3e3fb5",
+      "id": "notion:097ec2c4-499a-4df4-a0db-7f6aca3e3fb5",
       "title": "Samaritan",
       "type": "Movie",
       "year": 2022,
@@ -6190,7 +6190,7 @@
       ]
     },
     {
-      "id": "ece866da-3bd3-4491-b931-78173a0e46e2",
+      "id": "notion:ece866da-3bd3-4491-b931-78173a0e46e2",
       "title": "Motherland: Fort Salem",
       "type": "Series",
       "year": 2020,
@@ -6213,7 +6213,7 @@
       ]
     },
     {
-      "id": "19e7387d-9ef0-48fa-b785-62a237a298cf",
+      "id": "notion:19e7387d-9ef0-48fa-b785-62a237a298cf",
       "title": "Blonde",
       "type": "Movie",
       "year": 2022,
@@ -6241,7 +6241,7 @@
       ]
     },
     {
-      "id": "96a1a018-a7d6-4b1d-8326-87fb17f784c1",
+      "id": "notion:96a1a018-a7d6-4b1d-8326-87fb17f784c1",
       "title": "Vikings: Valhalla",
       "type": "Series",
       "year": 2022,
@@ -6269,7 +6269,7 @@
       ]
     },
     {
-      "id": "cd6f568a-1713-4859-a93d-9f0263bae9a0",
+      "id": "notion:cd6f568a-1713-4859-a93d-9f0263bae9a0",
       "title": "See",
       "type": "Series",
       "year": 2019,
@@ -6297,7 +6297,7 @@
       ]
     },
     {
-      "id": "8cc296ee-6149-4710-a0c3-633461d4a2af",
+      "id": "notion:8cc296ee-6149-4710-a0c3-633461d4a2af",
       "title": "Alone",
       "type": "Series",
       "year": 2015,
@@ -6385,7 +6385,7 @@
       ]
     },
     {
-      "id": "6ec12294-06e6-4196-9191-c3a48cf16719",
+      "id": "notion:6ec12294-06e6-4196-9191-c3a48cf16719",
       "title": "Welcome to Wrexham",
       "type": "Series",
       "year": 2022,
@@ -6423,7 +6423,7 @@
       ]
     },
     {
-      "id": "f623b146-f8a4-4f6b-80c3-15e212deeb70",
+      "id": "notion:f623b146-f8a4-4f6b-80c3-15e212deeb70",
       "title": "1923 (yellowstone)",
       "type": "Series",
       "year": 2022,
@@ -6466,7 +6466,7 @@
       ]
     },
     {
-      "id": "3004a8e3-5d1b-4085-92e6-18ead5942c4d",
+      "id": "notion:3004a8e3-5d1b-4085-92e6-18ead5942c4d",
       "title": "The White Lotus",
       "type": "Series",
       "year": 2021,
@@ -6499,7 +6499,7 @@
       ]
     },
     {
-      "id": "d9bdb0d4-d2ba-4933-a22f-b82c75f1d118",
+      "id": "notion:d9bdb0d4-d2ba-4933-a22f-b82c75f1d118",
       "title": "Citadel",
       "type": "Series",
       "year": 2023,
@@ -6532,7 +6532,7 @@
       ]
     },
     {
-      "id": "8ee9bf7f-dd83-4746-8d64-508374043430",
+      "id": "notion:8ee9bf7f-dd83-4746-8d64-508374043430",
       "title": "Silo",
       "type": "Series",
       "year": 2023,
@@ -6560,7 +6560,7 @@
       ]
     },
     {
-      "id": "4ec31b5b-5f95-4174-8f72-a2e7732ab306",
+      "id": "notion:4ec31b5b-5f95-4174-8f72-a2e7732ab306",
       "title": "Fatal Attraction",
       "type": "Series",
       "year": 2023,
@@ -6583,7 +6583,7 @@
       ]
     },
     {
-      "id": "e934add7-e071-4f9e-89bb-47ed676541a2",
+      "id": "notion:e934add7-e071-4f9e-89bb-47ed676541a2",
       "title": "Mr Inbetween",
       "type": "Series",
       "year": 2018,
@@ -6606,7 +6606,7 @@
       ]
     },
     {
-      "id": "5c56174c-9c12-4b9d-9398-ea9085b376c8",
+      "id": "notion:5c56174c-9c12-4b9d-9398-ea9085b376c8",
       "title": "The Killer",
       "type": "Movie",
       "year": 2023,
@@ -6634,7 +6634,7 @@
       ]
     },
     {
-      "id": "1890d0a9-c565-4957-8454-e62f49075918",
+      "id": "notion:1890d0a9-c565-4957-8454-e62f49075918",
       "title": "A Discovery of Witches",
       "type": "Series",
       "year": 2018,
@@ -6712,7 +6712,7 @@
       ]
     },
     {
-      "id": "fb004176-cfcb-4985-ac53-23bee80e71f0",
+      "id": "notion:fb004176-cfcb-4985-ac53-23bee80e71f0",
       "title": "Fear the Walking Dead",
       "type": "Series",
       "year": 2015,
@@ -6805,7 +6805,7 @@
       ]
     },
     {
-      "id": "852db419-789d-4ad3-acd4-cb4510ef5f49",
+      "id": "notion:852db419-789d-4ad3-acd4-cb4510ef5f49",
       "title": "Ride with Norman Reedus",
       "type": "Series",
       "year": 2016,
@@ -6873,7 +6873,7 @@
       ]
     },
     {
-      "id": "eaa1709e-8e67-4e02-b081-90135e849ab0",
+      "id": "notion:eaa1709e-8e67-4e02-b081-90135e849ab0",
       "title": "Killing Eve",
       "type": "Series",
       "year": 2018,
@@ -6956,7 +6956,7 @@
       ]
     },
     {
-      "id": "7d5addc3-74b7-4325-be83-391074435acf",
+      "id": "notion:7d5addc3-74b7-4325-be83-391074435acf",
       "title": "Dickinson",
       "type": "Series",
       "year": 2019,
@@ -6984,7 +6984,7 @@
       ]
     },
     {
-      "id": "202b4a39-78c5-47e7-a28f-eb5e91a5aa4e",
+      "id": "notion:202b4a39-78c5-47e7-a28f-eb5e91a5aa4e",
       "title": "Succubus",
       "type": "",
       "year": "",
@@ -7007,7 +7007,7 @@
       ]
     },
     {
-      "id": "bd6c7d51-3a40-4c72-8635-044dda3477ff",
+      "id": "notion:bd6c7d51-3a40-4c72-8635-044dda3477ff",
       "title": "Lucky",
       "type": "Series",
       "year": 2026,
@@ -7035,7 +7035,7 @@
       ]
     },
     {
-      "id": "cea8425d-de2c-4bb6-bc4b-96d07587ab2e",
+      "id": "notion:cea8425d-de2c-4bb6-bc4b-96d07587ab2e",
       "title": "Animals",
       "type": "",
       "year": "",
@@ -7058,7 +7058,7 @@
       ]
     },
     {
-      "id": "25a7ef33-77d0-43cc-9ccc-a11e9c70fcd5",
+      "id": "notion:25a7ef33-77d0-43cc-9ccc-a11e9c70fcd5",
       "title": "Harley and the Davidsons",
       "type": "",
       "year": "",
@@ -7081,7 +7081,7 @@
       ]
     },
     {
-      "id": "adbefa0e-a93d-42ad-a0c9-a3de787be8a5",
+      "id": "notion:adbefa0e-a93d-42ad-a0c9-a3de787be8a5",
       "title": "Man of War",
       "type": "",
       "year": "",
@@ -7097,7 +7097,7 @@
       "lastReleaseDate": ""
     },
     {
-      "id": "c7667a8c-101e-4170-8451-287c6bd57225",
+      "id": "notion:c7667a8c-101e-4170-8451-287c6bd57225",
       "title": "Proximity",
       "type": "",
       "year": "",
