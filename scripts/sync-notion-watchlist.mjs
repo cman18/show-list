@@ -91,7 +91,8 @@ function normalizePage(page) {
   const title = textProperty(p.Title).trim();
   if (!title) return null;
 
-  const id = textProperty(p.record_id).trim() || `notion:${page.id}`;
+  const recordId = textProperty(p.record_id).trim();
+  const id = `notion:${recordId || page.id}`;
   const type = textProperty(p.Type);
   const year = p.Year?.number ?? "";
   const serviceHint = textProperty(p["Network / Service (optional)"]);
