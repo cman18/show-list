@@ -1,6 +1,5 @@
-import { readFile, writeFile } from "node:fs/promises";
-import { dirname, } from "node:path";
-import { mkdir } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { dirname } from "node:path";
 
 const API_VERSION = "2026-03-11";
 const TOKEN = process.env.NOTION_API_TOKEN;
