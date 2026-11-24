@@ -94,14 +94,14 @@
       const state = { titles, syncedAt: payload.syncedAt || "" };
       localStorage.setItem(CACHE_KEY, JSON.stringify(state));
       const formatted = formatTime(state.syncedAt);
-      announce(formatted ? "Synchronized · " + formatted : "Synchronized", true);
+      announce(formatted ? "Notion snapshot · updated " + formatted : "Notion snapshot loaded", true);
       return titles;
     } catch {
       const lastGood = cachedState();
       const titles = lastGood?.titles || getSnapshot();
       const formatted = formatTime(lastGood?.syncedAt);
       announce(
-        formatted ? "Saved copy · last sync " + formatted : "Saved copy · sync unavailable",
+        formatted ? "Saved copy · snapshot from " + formatted : "Saved copy · snapshot unavailable",
         false,
       );
       return titles;
@@ -166,6 +166,12 @@
   const observer = new MutationObserver(styleAndMountControls);
   observer.observe(document.documentElement, { childList: true, subtree: true });
   styleAndMountControls();
+
+  if (document.readyState === "complete") {
+    forceSync();
+  } else {
+    window.addEventListener("load", forceSync, { once: true });
+  }
 
   window.setInterval(() => {
     forceSync();
