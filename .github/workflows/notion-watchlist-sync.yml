@@ -1,0 +1,56 @@
+name: Sync Notion Show List
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: notion-show-list-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source code
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: source
+          persist-credentials: false
+
+      - name: Check out GitHub Pages branch
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: gh-pages
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch Notion and build public snapshot
+        run: node source/scripts/sync-notion-watchlist.mjs
+        env:
+          NOTION_API_TOKEN: ${{ secrets.NOTION_API_TOKEN }}
+          NOTION_DATA_SOURCE_ID: "42262c75-e5b2-817d-b8c6-000b53eab5b9"
+          OUTPUT_PATH: gh-pages/watchlist.json
+
+      - name: Publish only when the list changes
+        run: |
+          git -C gh-pages config user.name "github-actions[bot]"
+          git -C gh-pages config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git -C gh-pages diff --quiet -- watchlist.json; then
+            echo "Watchlist is unchanged; no commit or Pages update needed."
+          else
+            git -C gh-pages add watchlist.json
+            git -C gh-pages commit -m "Sync public watchlist from Notion"
+            git -C gh-pages push origin gh-pages
+          fi
