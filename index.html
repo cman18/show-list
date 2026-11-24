@@ -7,10 +7,74 @@
     <meta name="description" content="Show List watchlist with verified US streaming options and release sorting." />
     <link rel="icon" href="/show-list/favicon.svg" type="image/svg+xml" />
     <title>Show List — Your next good watch</title>
+    <style>
+      .version-tracker {
+        margin-left: auto;
+        display: inline-flex;
+        align-items: center;
+        flex: 0 0 auto;
+        border: 1px solid #46534c;
+        border-radius: 999px;
+        padding: 7px 11px;
+        background: #1c2421;
+        color: #c4ed9e;
+        font: 600 12px/1.2 Manrope, sans-serif;
+        letter-spacing: .02em;
+        text-decoration: none;
+        white-space: nowrap;
+      }
+      .version-tracker:hover,
+      .version-tracker:focus-visible {
+        border-color: #c4ed9e;
+        color: #e0f5ce;
+      }
+      @media (width <= 480px) {
+        .version-tracker { padding: 6px 8px; font-size: 11px; }
+      }
+    </style>
     <script type="module" crossorigin src="/show-list/assets/index-DQbXk9qW.js"></script>
     <link rel="stylesheet" crossorigin href="/show-list/assets/index-BFSHigI0.css">
   </head>
   <body>
     <div id="root"></div>
+    <script>
+      (() => {
+        const fallbackVersion = "2026.11.23.1";
+        const mount = () => {
+          const header = document.querySelector(".topbar");
+          if (!header || document.getElementById("version-tracker")) return Boolean(header);
+          const badge = document.createElement("a");
+          badge.id = "version-tracker";
+          badge.className = "version-tracker";
+          badge.href = "https://github.com/cman18/show-list/commits/gh-pages";
+          badge.target = "_blank";
+          badge.rel = "noopener noreferrer";
+          badge.textContent = "v" + fallbackVersion;
+          badge.title = "Show List deployment version " + fallbackVersion + " · release history";
+          badge.setAttribute("aria-label", "Show List deployment version " + fallbackVersion + ". Open release history.");
+          header.appendChild(badge);
+          fetch("./version.json?refresh=" + Date.now(), { cache: "no-store" })
+            .then(response => response.ok ? response.json() : null)
+            .then(data => {
+              if (!data || typeof data.version !== "string") return;
+              const label = "v" + data.version;
+              const date = data.releasedAt
+                ? new Date(data.releasedAt + "T12:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })
+                : "";
+              badge.textContent = label;
+              badge.title = "Show List deployment " + label + (date ? " · published " + date : "") + " · click for release history";
+              badge.setAttribute("aria-label", "Show List deployment " + label + (date ? ", published " + date : "") + ". Open release history.");
+            })
+            .catch(() => {});
+          return true;
+        };
+        if (!mount()) {
+          const observer = new MutationObserver(() => {
+            if (mount()) observer.disconnect();
+          });
+          observer.observe(document.getElementById("root"), { childList: true, subtree: true });
+        }
+      })();
+    </script>
   </body>
 </html>
